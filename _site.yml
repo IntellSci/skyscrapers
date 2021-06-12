@@ -1,2 +1,10 @@
 name: "Skyscrapers"
-
+navbar:
+  title: "Newsletter"
+  left:
+    - text: "Home"
+      href: index.html
+      
+output:
+  html_document:
+  theme: cosmo
