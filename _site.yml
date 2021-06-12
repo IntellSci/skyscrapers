@@ -1,10 +1,11 @@
-name: "Skyscrapers"
+name: "Newsletter"
 navbar:
-  title: "Newsletter"
+  title: "SkyScrapers"
   left:
-    - text: "Home"
+    - text: "About"
       href: index.html
       
 output:
   html_document:
   theme: cosmo
+output_dir: "."
