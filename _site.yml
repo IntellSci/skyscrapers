@@ -8,6 +8,14 @@ navbar:
       href: individuality.html
     - text: "Nationality"
       href: nationality.html
+    - text: "Spirituality"
+      href: spirituality.html
+    - text: "Story"
+      href: story.html
+    - text: "Song"
+      href: song.html
+    - text: "Skill Spot"
+      href: skillspot.html  
       
 output:
   html_document:
