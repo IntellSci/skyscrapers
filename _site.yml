@@ -4,9 +4,9 @@ navbar:
   left:
     - text: "About"
       href: index.html
-      text: "Individuality"
+    - text: "Individuality"
       href: individuality.html
-      text: "Nationality"
+    - text: "Nationality"
       href: nationality.html
       
 output:
