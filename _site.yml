@@ -1,9 +1,2 @@
-name: "cat-website"
-navbar:
-  title: "My cats' website"
-  left:
-    - text: "Home"
-      href: index.html
-output:
-  html_document:
-    theme: darkly
+name: "Skyscrapers"
+
