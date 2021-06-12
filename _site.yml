@@ -1,6 +1,6 @@
-name: "Newsletter"
+name: "SKYSCRAPERSr"
 navbar:
-  title: "SkyScrapers"
+  title: "Newsletter for Children"
   left:
     - text: "About"
       href: index.html
@@ -19,5 +19,17 @@ navbar:
       
 output:
   html_document:
- # theme: darkly
+    theme: darkly
+    #  version: 4
+  #  bs_theme(
+   #   version = 4+3,
+  #    bootswatch = darkly
+   # )
+#output:
+ # html_document:
+  #  bootstrap_version: 4+3
+  #  toc: true
+  #  theme: minty
+  #    version: 4
+     # bootswatch: cosmo
 output_dir: "."
